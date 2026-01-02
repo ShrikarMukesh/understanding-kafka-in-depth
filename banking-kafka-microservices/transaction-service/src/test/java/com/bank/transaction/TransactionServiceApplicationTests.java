@@ -1,13 +1,13 @@
-package com.elevens.bank;
+package com.bank.transaction;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BankingKafkaMicroservicesApplicationTests {
+class TransactionServiceApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
