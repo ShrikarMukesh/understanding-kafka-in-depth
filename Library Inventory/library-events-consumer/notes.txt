@@ -1,6 +1,0 @@
-Consumer groups and Rebalance
-./gradlew build
-java -jar build/libs/library-events-consumer-0.0.1-SNAPSHOT.jar
-java -jar -Dserver.port=8082 build/libs/library-events-consumer-0.0.1-SNAPSHOT.jar
-
-java -jar -Dserver.port=8083 build/libs/library-events-consumer-0.0.1-SNAPSHOT.jar

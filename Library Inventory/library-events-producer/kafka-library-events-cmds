@@ -1,4 +1,0 @@
-
-kafka-topics.sh --bootstrap-server localhost:9092 --describe --topic library-events
-
-kafka-console-consumer.sh --topic library-events --from-beginning --bootstrap-server localhost:9092
